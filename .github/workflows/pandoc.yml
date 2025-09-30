@@ -1,0 +1,97 @@
+name: Pandoc
+
+on:
+  push:
+    branches:
+      - main
+      - iala-secretariat-updates
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install mermaid-cli
+        run: npm install -g @mermaid-js/mermaid-cli
+
+      - name: Process Mermaid Diagrams
+        run: |
+          for file in $(find . -name "*.md"); do
+            mmdc -e png -b transparent -i $file -o $file
+          done
+
+      - name: Convert How To Contribute to Word (.docx) with Pandoc
+        uses: docker://pandoc/core:3.1
+        with:
+          args: >-  # Use multi-line string
+            --standalone
+            -f markdown+rebase_relative_paths+markdown_in_html_blocks
+            --lua-filter source/utils/parse_html_tables.lua
+            -F pandoc-crossref
+            --citeproc
+            --csl resources/ieee-with-url.csl
+            --bibliography source/bibliography/bibliography.bib
+            --reference-doc=resources/iala_guideline_template_body.docx
+            --output=output/how_to_contribute.docx
+            source/howto/metadata.md
+            source/howto/how_to_contribute.md
+
+      - name: Convert Guideline body to Word (.docx) with Pandoc
+        uses: docker://pandoc/core:3.1
+        with:
+          args: >-  # Use multi-line string
+            --standalone
+            -f markdown+rebase_relative_paths+markdown_in_html_blocks
+            --lua-filter source/utils/parse_html_tables.lua
+            -F pandoc-crossref
+            --citeproc
+            --csl resources/ieee-with-url.csl
+            --bibliography source/bibliography/bibliography.bib
+            --reference-doc=resources/iala_guideline_template_body.docx
+            --output=output/body.docx
+            source/guideline/metadata.md
+            source/guideline/introduction.md
+            source/guideline/user_needs.md
+            source/guideline/features.md
+            source/guideline/guiding_principles.md
+            source/guideline/business_process.md
+            source/guideline/definitions.md
+            source/guideline/abbreviations.md
+            source/guideline/references.md
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install python-docx==1.1.0
+          pip install docxcompose==1.4.0
+
+      - name: Concatenate Guideline front matter and body
+        run: |
+          python source/utils/combine_docx.py
+
+#      - name: Upload artifacts
+#        uses: actions/upload-artifact@v4
+#        with:
+#          name: iala_ms2_maritime_service
+#          path: output/
+
+      - name: Commit output documents
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -f output/how_to_contribute.docx
+          git add -f output/iala_ms2_maritime_service.docx
+          git commit -m "Update output documents"
+          git push

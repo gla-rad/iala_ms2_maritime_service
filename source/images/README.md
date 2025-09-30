@@ -1,0 +1,1 @@
+Put image source files in this directory.
