@@ -30,7 +30,7 @@ Service Interface
   ~ The communication mechanism of the service, i.e., interaction mechanism between service provider and service consumer. A service interface is characterised by a message exchange pattern and consists of service operations that are either allocated to the provider or the consumer of the service.
 
 Service Operation
-  ~ Functions or procedure which enables programmatic communication with a service via a service interface.
+  ~ Functions or procedures which enable programmatic communication with a service via a service interface.
 
 Service Physical Data Model
   ~ Describes the realisation of a dedicated service data model in a dedicated technology. This includes a detailed description of the data S-212 to be exchanged using the chosen technology. The actual format of the service physical data model depends on the chosen technology. Examples may be WSDL and XSD files (e.g., for SOAP services) or swagger (Open API) specifications (e.g., for REST services). If an external data model exists (e.g., a standard data model), then the service physical data model shall refer to it: each data item of the service physical data model shall be mapped to a data item defined in the external data model.
