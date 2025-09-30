@@ -50,9 +50,9 @@ Of particular interest to the AtoN Authorities of the IALA member states, is the
 
 ### Data Driven
 
-The operation of the MS-2 – Aids to Navigation service should be data driven, meaning that the information flow processes should follow the AtoN status changes. This would ensure that critical information, such as AtoN outages, as well as the NW (MSI related) generation procedures put in place, are promulgated as soon as available.
+The operation of the MS-2 – Aids to Navigation service should be data driven, meaning that the information flow processes should follow the AtoN status changes. This would ensure that critical information, such as AtoN outages, as well as the NW (MSI-related) generation procedures put in place, are promulgated as soon as available.
 
-It is however well understood that this might not always be feasible - at least not during the first phases of the system deployment (due to practical reasons, resource constraints etc.). It is therefore expected that at least initially, only the hight priority AtoN discrepancies/changes and NW (MSI related) information, would follow the data driven approach, while the rest of the AtoN information data flows of [@fig:aton-information-flow], would be produced and promulgated at regular intervals (e.g. once a day or a week).
+It is however well understood that this might not always be feasible - at least not during the first phases of the system deployment (due to practical reasons, resource constraints etc.). It is therefore expected that at least initially, only the high priority AtoN discrepancies/changes and NW (MSI-related) information, would follow the data driven approach, while the rest of the AtoN information data flows of [@fig:aton-information-flow], would be produced and promulgated at regular intervals (e.g. once a day or a week).
 
 ## Functional and Non-Functional Requirements
 
