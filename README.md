@@ -1,8 +1,8 @@
-# IALA Guideline on VDES Authentication Techniques (DRAFT)
+# IALA G1155 Maritime Service Description for the MS-2 Aids to Navigation Service (DRAFT)
 
 Interested in the MS-2 Aids to Navigation Maritime Service? Then you've come to the right place!
 
-This repository contains materials used by IALA ARM Working Group 2 in drafting the MS-2 Maritime Service Specification.
+This repository contains materials used by IALA ARM Working Group 2 in drafting the MS-2 Maritime Service Description.
 
 ## Repository Structure
 
