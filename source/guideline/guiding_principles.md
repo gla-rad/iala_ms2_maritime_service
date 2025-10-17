@@ -78,7 +78,6 @@ It is however well understood that this might not always be feasible - at least 
 | **Functional** | MS2-FR018 | Change Log | The service allows data producers to track the record of changes to the advertised dataset(s) for any time interval required. | F015 |
 | **Functional** | MS2-FR019 | Change Log State | The service allows data producers to view the full state of the AtoN Information as provided to consumers at any past point in time. | F015 |
 
-
 : Functional Requirements for the MS-2 AtoN Information Service. {#tbl:ms2-functional-requirements}
 
 | Requirement Type | Requirement ID | Requirement Name | Requirement Text | Feature Identifier |

@@ -32,5 +32,5 @@ For reference, this annex provides three discrete tables with the user needs and
 | --- | --- | --- | --- | --- |
 | SAR should have access to relevant information contained within the e-Navigation domain.| SAR need a full range of information pertaining to ships and their domain to support the saving of lives. | - Common data structure</br> - Automated reporting</br> - Robust communications data integrity | | |
 | Effective Communication and information sharing. | SAR must be able to use the e-Navigation infrastructure to communicate and share information effectively with all parties involved in an incident. | - Common data structure</br> - Automated reporting</br> - Robust communications data integrity | | |
- 
+
 : Search And Rescue Authority Needs and Priorities. {#tbl:sar-needs-and-priorities}
