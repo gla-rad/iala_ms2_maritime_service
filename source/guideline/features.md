@@ -35,7 +35,7 @@ This section describes the main features of the MS-2 – Aids to Navigation Serv
   <td rowspan="3"><strong>OBJ1</strong>, <strong>OBJ4</strong>, <strong>OBJ5</strong></td>
 </tr>
 <tr>
-  <td><strong>As a:</strong> Seafarer, <br/> <strong>I want to:</strong> Subscribe to updates for specific AtoN information, <br/></td>
+  <td><strong>I want to:</strong> Subscribe to updates for specific AtoN information, <br/></td>
 </tr>
 <tr>
   <td><strong>so that:</strong> I can automatically receive changes without repeated manual requests, minimising the required effort and delays.</td>

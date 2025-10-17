@@ -16,4 +16,6 @@ This directory includes the source files for the Maritime Service document. Each
 
 1.  [References](references.md)
 
+1.  [Annex-A](annex-a.md)
+
 The [front matter](front_matter.docx) is currently a separate Word document and is merged with the rest of the Guideline during the Markdown-to-Word conversion process.

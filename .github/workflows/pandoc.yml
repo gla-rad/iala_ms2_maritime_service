@@ -65,6 +65,7 @@ jobs:
             source/guideline/definitions.md
             source/guideline/abbreviations.md
             source/guideline/references.md
+            source/guideline/annex-a.md
 
       - name: Setup Python
         uses: actions/setup-python@v5
