@@ -8,7 +8,6 @@ For reference, this annex provides three discrete tables with the user needs and
 <tr>
   <th>User need</th>
   <th>Justification</th>
-  <th>Relation to IMO strateg</th>
   <th>Priority in terms of work required</th>
   <th>Issues to consider</th>
 </tr>
@@ -18,7 +17,6 @@ For reference, this annex provides three discrete tables with the user needs and
 <tr>
   <td>User-selectable presentation of information received via communication equipment</td>
   <td>Seafarers expressed a desire to have the possibility to present user-selectable information received via communication equipment on the navigational displays (e.g. ship in distress, wind speed/ direction, AtoN status, restricted areas). They further requested the possibility to filter some transmitted data for presentation according to user-set parameters (e.g. only information from user-selected sea areas).</td>
-  <td>- Effective communication - Human-centred presentation needs - Human-machine interface - Analysis</td>
   <td>Research should be conducted regarding the type of information, equipment and systems involved and how to present and/or filter such information.</td>
   <td>Availability of information in real-time with possible presentation on the shipborne navigational displays. Information overload needs to be prevented, therefore, presentation of information should be user-selectable to filter required information. Task-oriented presentation based on INS-tasks (resolution MSC.252(83)).</td>
 </tr>
