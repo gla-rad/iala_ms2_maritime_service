@@ -1,6 +1,6 @@
 # Definitions
 
-The definitions of terms used in this Guideline can be found in the *International Dictionary of Marine Aids to Navigation* (IALA dictionary) and were checked as correct at the time of going to print. Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
+The definitions of terms used in this Guideline can be found in the *International Dictionary of Marine Aids to Navigation* (IALA Dictionary) and were checked as correct at the time of going to print. Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
 
 Authentication
   ~ (from Greek: αὐθεντικός *authentikos*, "real, genuine", from αὐθέντης *authentes*, "author") is the act of proving an assertion, such as the identity of a computer system user [@cite:wikipedia-authentication].
