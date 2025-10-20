@@ -16,9 +16,6 @@ For reference, this annex provides three discrete tables with the user needs and
 </thead>
 <tbody>
 <tr>
-  <td colspan="5">Human Machine & Interface Issues</td>
-</tr>
-<tr>
   <td>User-selectable presentation of information received via communication equipment</td>
   <td>Seafarers expressed a desire to have the possibility to present user-selectable information received via communication equipment on the navigational displays (e.g. ship in distress, wind speed/ direction, AtoN status, restricted areas). They further requested the possibility to filter some transmitted data for presentation according to user-set parameters (e.g. only information from user-selected sea areas).</td>
   <td>- Effective communication - Human-centred presentation needs - Human-machine interface - Analysis</td>
