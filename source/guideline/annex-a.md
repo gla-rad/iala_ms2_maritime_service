@@ -70,13 +70,6 @@ For reference, this annex provides three discrete tables with the user needs and
   <td>Research into how voice and digital communication can be made more effective. Plan for greater use of IMO SMCP (resolution A.918(22)). Identify reliability standards for communication technology. Identify communication capacity issues to ensure adequate bandwidth for essential communication needs.</td>
   <td>Route exchange. Use of AIS application specific messages. Use of Wireless technology (Wi-Fi and Wi-MAX).</td>
 </tr>
-<tr>
-  <td><strong></strong></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr>
 </tbody>
 </table>
 </div>
@@ -142,7 +135,7 @@ For reference, this annex provides three discrete tables with the user needs and
 </table>
 </div>
 
-<div id="html_table" caption=": Search And Rescue Authority Needs and Priorities. {#tbl:sar-needs-and-priorities}">
+<div id="html_table" caption="Search And Rescue Authority Needs and Priorities. {#tbl:sar-needs-and-priorities}">
 <table>
 <thead>
 <tr>
