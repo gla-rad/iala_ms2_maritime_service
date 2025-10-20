@@ -2,6 +2,24 @@
 
 For reference, this annex provides three discrete tables with the user needs and priorities that have been identified in the IMO in MSC.1/Circ.1595, Annex 3 [@cite:imo-msc-1-circ1595-2018]. The tables focus specifically on Shipboard, Shore-based and Search and Rescue (SAR) users respectively. Only the entries that are deemed relevant to the MS-2 Aids to Navigation Service specification have been included.
 
+<div id="html_table" caption="A table with column and row spans. {#tbl:complex}">
+<table>
+<thead>
+<tr>
+  <th colspan="2">This cell spans two columns</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td rowspan="2">This one spans two rows</td>
+  <td>Just an ordinary cell</td>
+</tr>
+<tr>
+  <td>Another ordinary cell</td>
+</tr>
+</tbody>
+</table>
+</div>
 
 <div id="html_table" caption="Shipboard User Needs and Priorities {#tbl:shipboard-user-needs-and-priorities}">
 <table>
