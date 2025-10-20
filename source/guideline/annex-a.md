@@ -33,7 +33,7 @@ For reference, this annex provides three discrete tables with the user needs and
 </tr>
 <tr>
   <td><strong>Maritime Safety Information (MSI)</strong> Seafarers expressed a desire to sort and display MSI, such as NAVTEX, SafetyNET, more effectively.</td>
-  <td>On most ships, NAVTEX information is displayed on a separate screen or printed on a scroll of paper. The Latitude and Longitude of the MSI must then be compared to that of the ship by the watchkeeper to identify whether the information is relevant and poses a risk. For example, notifications of new and dangerous wreck carriers are not prioritized over drifting buoys, possibly hundreds of miles away from the ship's intended route. This is a very time-consuming and distracting task, and susceptible to human error. Seafarers considered that presenting such safety information on the ship's navigation display would be far more effective and a clear benefit of e-Navigation.</td>
+  <td><p>On most ships, NAVTEX information is displayed on a separate screen or printed on a scroll of paper. The Latitude and Longitude of the MSI must then be compared to that of the ship by the watchkeeper to identify whether the information is relevant and poses a risk. For example, notifications of new and dangerous wreck carriers are not prioritized over drifting buoys, possibly hundreds of miles away from the ship's intended route.<p></p>This is a very time-consuming and distracting task, and susceptible to human error. Seafarers considered that presenting such safety information on the ship's navigation display would be far more effective and a clear benefit of e-Navigation.</p></td>
   <td>
     <ul>
       <li>Effective communication</li>
@@ -63,7 +63,7 @@ For reference, this annex provides three discrete tables with the user needs and
   <td colspan="5"><strong>Operational Issues</strong></td>
 </tr>
 <tr>
-  <td><strong>Improved Reliability</strong> Before seafarers are confident in e-Navigation systems, they must prove far more reliable than many of the present systems.</td>
+  <td><strong>Improved Reliability:</strong> Before seafarers are confident in e-Navigation systems, they must prove far more reliable than many of the present systems.</td>
   <td>Seafarers today often struggle with electronic equipment that fails or malfunctions in some respect. This may relate to poor performance from radar; electronic chart software faults; incorrect AIS data, GMDSS alerts or loss of position fixing systems. Even a 99% reliability rating would result in a problem for 1 voyage in every 100. This has resulted in many seafarers distrusting electronic systems, and now having grave doubts about relying on e-Navigation. It must be recognized that there is little competence for fixing such systems on board, and obtaining the services of a qualified technician in some ports can be difficult.</td>
   <td>
     <ul>
@@ -87,7 +87,7 @@ For reference, this annex provides three discrete tables with the user needs and
   <td>Electronic documents should support: easy localization of information (e.g. with the help of a search function); automatic updates (e.g. of Notices to Mariners); possible integration of information from multiple sources; the integration of information in other systems on the bridge (e.g. ECDIS) electronic documents should be printable or be additionally provided as paper version; the need for traceability and ability to audit.</td>
 </tr>
 <tr>
-  <td><strong>Automated Updating of Baseline Data and Documents</strong><br/>Seafarers expressed a desire for documents such as charts and voyage planning publications to be automatically updated, with minimal shipboard intervention.</td>
+  <td><strong>Automated Updating of Baseline Data and Documents:</strong> Seafarers expressed a desire for documents such as charts and voyage planning publications to be automatically updated, with minimal shipboard intervention.</td>
   <td>Seafarers are required to use a plethora of publications associated with voyage planning and monitoring. These include, but are not limited to: charts, lights list, lists of radio signals, sailing directions, port guides, etc. Currently, most of these are kept on board in paper format and require a considerable amount of time to keep constantly updated. Seafarers believe that e-Navigation can be of benefit if it ensures that all these sources of information are automatically maintained up to date, and all of this information is accessible from a centralized location. Seafarers have also expressed a desire for this information to be easy to access, sort and make sense of. This may be achieved by standard formats or smart systems. Seafarers are very concerned that e-Navigation may lead to more information being made available to them, leading to further overburdening. It is essential that the provision of information via e-Navigation should be managed and presented effectively.</td>
   <td>
     <ul>
@@ -136,7 +136,7 @@ For reference, this annex provides three discrete tables with the user needs and
 </tr>
 <tr>
   <td><strong>Collection of information</strong></td>
-  <td>Complete marine domain awareness is essential for the early identification of risks and effective response. The collection of information is necessary to build an enhanced domain awareness, to support safety, security, environment protection and efficiency. This allows for faster and more informed decisions. There are rules that require coastal States to maintain domain awareness. There is currently a gap between the information collected and information required. A change in the type of service offered by a VTS (i.e. Information Service, Navigational Assistance Service or a Traffic Organization Service) may change the functional requirements of the domain awareness system.</td>
+  <td><p>Complete marine domain awareness is essential for the early identification of risks and effective response.<p></p>The collection of information is necessary to build an enhanced domain awareness, to support safety, security, environment protection and efficiency. This allows for faster and more informed decisions.<p></p>There are rules that require coastal States to maintain domain awareness.<p></p>There is currently a gap between the information collected and information required.<p></p>A change in the type of service offered by a VTS (i.e. Information Service, Navigational Assistance Service or a Traffic Organization Service) may change the functional requirements of the domain awareness system.</p></td>
   <td>
     <ul>
       <li>Common maritime information/data structure</li>
@@ -151,7 +151,7 @@ For reference, this annex provides three discrete tables with the user needs and
 </tr>
 <tr>
   <td><strong>Management of information</strong></td>
-  <td>Shore authorities need tools for managing increased levels of information pertaining to the maritime domain awareness. A harmonized and holistic approach to information management will enable shore authorities to manage resources more efficiently. The harmonized and enhanced presentation of domain awareness will improve situational awareness for allied and other support services. Enhanced information management is required for improving logistics management and in support of safety, security and environment protection. Currently, there are major challenges to managing and sharing a diverse range of information from dissimilar systems. Current systems suffer without a harmonized approach to quality and structure.</td>
+  <td><p>Shore authorities need tools for managing increased levels of information pertaining to the maritime domain awareness.<p></p>A harmonized and holistic approach to information management will enable shore authorities to manage resources more efficiently.<p></p>The harmonized and enhanced presentation of domain awareness will improve situational awareness for allied and other support services.<p></p>Enhanced information management is required for improving logistics management and in support of safety, security and environment protection. Currently, there are major challenges to managing and sharing a diverse range of information from dissimilar systems.<p></p>Current systems suffer without a harmonized approach to quality and structure.</p></td>
   <td>
     <ul>
       <li>Common maritime information/data structure</li>
@@ -167,7 +167,7 @@ For reference, this annex provides three discrete tables with the user needs and
 </tr>
 <tr>
   <td><strong>Provision of information to ships</strong></td>
-  <td>Shore authorities have an obligation to provide maritime information to ships. There is a need to improve the delivery and presentation of such information to enhance onboard decision-making. Effective and harmonized communication should allow for the provision of such information in an operationally effective manner.</td>
+  <td><p>Shore authorities have an obligation to provide maritime information to ships.<p></p>There is a need to improve the delivery and presentation of such information to enhance onboard decision-making.<p></p>Effective and harmonized communication should allow for the provision of such information in an operationally effective manner.</p></td>
   <td>
     <ul>
       <li>Common maritime information/data structure</li>
@@ -183,7 +183,7 @@ For reference, this annex provides three discrete tables with the user needs and
 </tr>
 <tr>
   <td><strong>Quality assurance</strong></td>
-  <td>The shore authority needs to have confidence that the navigation systems being used on board are operating correctly. Shore authorities need to be confident that the information which they receive from and send to the ship is correct. Shore authorities have a need to be capable of establishing effective communication with bridge teams and other shore users.</td>
+  <td><p>The shore authority needs to have confidence that the navigation systems being used on board are operating correctly.<p></p>Shore authorities need to be confident that the information which they receive from and send to the ship is correct.<p></p>Shore authorities have a need to be capable of establishing effective communication with bridge teams and other shore users.</p></td>
   <td>
     <ul>
       <li>Common maritime information/data structure</li>
@@ -198,7 +198,7 @@ For reference, this annex provides three discrete tables with the user needs and
 </tr>
 <tr>
   <td><strong>Shore-to-shore information exchange</strong></td>
-  <td>Shore authorities need an enhanced ability to share maritime information amongst authorized shore users to ensure consistency and reduce the reporting burden by ship personnel. More effective shore-to-shore information exchange will aid safety, security, the identification of risk, environmental protection and improve logistics management.</td>
+  <td><p>Shore authorities need an enhanced ability to share maritime information amongst authorized shore users to ensure consistency and reduce the reporting burden by ship personnel.<p></p>More effective shore-to-shore information exchange will aid safety, security, the identification of risk, environmental protection and improve logistics management.</p></td>
   <td>
     <ul>
       <li>Common maritime information/data structure</li>
@@ -214,10 +214,10 @@ For reference, this annex provides three discrete tables with the user needs and
 </tr>
 <tr>
   <td><strong>Effective and robust communications</strong></td>
-  <td>A clear need was expressed for there to be an effective and robust means of communication for ship and shore users. Shore-based users require an effective means of communicating with ships to facilitate safety, security and environmental protection and to provide operational information. To be effective, communication with and between ships should make best use of audio/visual aids and standard phrases to minimize linguistic challenges and distractions to operators. Research has indicated that a high percentage of seafarers regard language incompatibility and non-standard phrases as a major problem. They also highlighted equipment failure and busy communication channels as concerns that needed to be addressed.</td>
+  <td><p>A clear need was expressed for there to be an effective and robust means of communication for ship and shore users. Shore-based users require an effective means of communicating with ships to facilitate safety, security and environmental protection and to provide operational information. To be effective, communication with and between ships should make best use of audio/visual aids and standard phrases to minimize linguistic challenges and distractions to operators.<p></p>Research has indicated that a high percentage of seafarers regard language incompatibility and non-standard phrases as a major problem. They also highlighted equipment failure and busy communication channels as concerns that needed to be addressed.</p></td>
   <td>
     <ul>
-      <li>Common maritime information/data structure</li>
+      <li>Automated and standardized reporting functions</li>
       <li>Effective and robust communications</li>
     </ul>
   </td>
@@ -257,7 +257,7 @@ For reference, this annex provides three discrete tables with the user needs and
   <td></td>
 </tr>
 <tr>
-  <td><strong>*Effective Communication and information sharing</strong></td>
+  <td><strong>Effective Communication and information sharing</strong></td>
   <td>SAR must be able to use the e-Navigation infrastructure to communicate and share information effectively with all parties involved in an incident.</td>
   <td>
     <ul>
