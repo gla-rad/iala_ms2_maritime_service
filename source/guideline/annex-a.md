@@ -33,7 +33,7 @@ For reference, this annex provides three discrete tables with the user needs and
 </tr>
 <tr>
   <td><strong>Maritime Safety Information (MSI):</strong> Seafarers expressed a desire to sort and display MSI, such as NAVTEX, SafetyNET, more effectively.</td>
-  <td><div>On most ships, NAVTEX information is displayed on a separate screen or printed on a scroll of paper. The Latitude and Longitude of the MSI must then be compared to that of the ship by the watchkeeper to identify whether the information is relevant and poses a risk. For example, notifications of new and dangerous wreck carriers are not prioritized over drifting buoys, possibly hundreds of miles away from the ship's intended route.<div></div>This is a very time-consuming and distracting task, and susceptible to human error. Seafarers considered that presenting such safety information on the ship's navigation display would be far more effective and a clear benefit of e-Navigation.</div></td>
+  <td><p>On most ships, NAVTEX information is displayed on a separate screen or printed on a scroll of paper. The Latitude and Longitude of the MSI must then be compared to that of the ship by the watchkeeper to identify whether the information is relevant and poses a risk. For example, notifications of new and dangerous wreck carriers are not prioritized over drifting buoys, possibly hundreds of miles away from the ship's intended route.<p></p>This is a very time-consuming and distracting task, and susceptible to human error. Seafarers considered that presenting such safety information on the ship's navigation display would be far more effective and a clear benefit of e-Navigation.</p></td>
   <td>
     <ul>
       <li>Effective communication</li>
