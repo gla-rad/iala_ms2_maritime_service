@@ -14,9 +14,9 @@ The Aton Authorities of the IALA member states, as the organizations responsible
 
 AtoN, NW (MSI-related) and any other related maritime information, must be provided using methods that conform to the S-100 framework. This is a key principle for achieving the IMO e Navigation goal of ***"the harmonized collection, integration, exchange, presentation and analysis of maritime information on-board and ashore by electronic means"*** [@cite:imo-msc-1-circ1595-2018]. The exchanged data can be packaged in multiple ways, but under the S-100 framework there are two main recognised container types:
 
-* Exchange of "pure" S-100 Datasets
+* Exchange of "pure" S-100 Datasets, and
 
-* Exchange of S-100 100 Exchange Sets
+* Exchange of S-100 100 Exchange Sets, along with the machine readable part of the product specification.
 
 S-100 datasets are in most cases XML-based files, that contain no additional metadata. This simpler representation of AtoN information, can in some cases might be the preferred way for transferring the data, especially if these are not intended for portrayal on ECDIS devices. A related use case could be the digital equivalent of the current List of Lights carriage requirement. 
 

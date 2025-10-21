@@ -216,6 +216,17 @@ This section describes the main features of the MS-2 – Aids to Navigation Serv
 <tr>
   <td><strong>so that:</strong> small craft users, non-covered by SOLAS, will not accidentally hit them.</td>
 </tr>
+<tr>
+  <td rowspan="3">F019</td>
+  <td><strong>As a:</strong> Seafarer,</td>
+  <td rowspan="3"><strong>OBJ1</strong>, <strong>OBJ5</strong></td>
+</tr>
+<tr>
+  <td><strong>I want to:</strong> be able to see only the AtoN status change information on top of my navigational chart,</td>
+</tr>
+<tr>
+  <td><strong>so that:</strong>: the display of information is harmonized and it is clear what the significant changes in AtoNs are.</td>
+</tr>
 </tbody>
 </table>
 </div>

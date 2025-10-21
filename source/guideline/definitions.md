@@ -20,6 +20,10 @@ NAVAREA
 NAVTEX
   ~ Single frequency time-shared broadcast system with automated reception and message rejection/selection facilities. Use of NAVTEX is regulated by the IMO NAVTEX Manual (IMO publication 951).
 
+Public Portal
+  ~ Public Portal services are defined as any public-facing digital services, including IP based human readable websites and web based APIs.
+
+
 Service
   ~ The provision of something (a non-physical object), by one, for the use of one or more others, regulated by formal definitions and mutual agreements. Services involve interactions between providers and consumers, which may be performed in a digital form (data exchanges) or through voice communication or written processes and procedures. 
 
