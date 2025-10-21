@@ -89,11 +89,26 @@ jobs:
 #          name: iala_ms2_maritime_service
 #          path: output/
 
-      - name: Commit output documents
-        run: |
-          git config user.name nvasta
-          git config user.email Nikolaos.Vastardis@gla-rad.org
-          git add -f output/how_to_contribute.docx
-          git add -f output/iala_ms2_maritime_service.docx
-          git commit -m "Update output documents"
-          git push
+      # - name: Commit output documents
+      #   run: |
+      #     git config user.name nvasta
+      #     git config user.email Nikolaos.Vastardis@gla-rad.org
+      #     git add -f output/how_to_contribute.docx
+      #     git add -f output/iala_ms2_maritime_service.docx
+      #     git commit -m "Update output documents"
+      #     git push
+
+      - name: Create Release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+        with:
+          tag_name: ${{ github.ref }}
+          release_name: Release ${{ github.ref }}
+          body: |
+            Changes in this Release
+            - First Change
+            - Second Change
+          draft: false
+          prerelease: false
