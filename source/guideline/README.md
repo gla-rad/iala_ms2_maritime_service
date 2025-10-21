@@ -1,5 +1,7 @@
 This directory includes the source files for the Maritime Service document. Each section of the document is in a separate Markdown file, as follows:
 
+1.  [Executive Summary](exec_summary.md)
+
 1.  [Introduction](introduction.md)
 
 1.  [User Needs](user_needs.md)

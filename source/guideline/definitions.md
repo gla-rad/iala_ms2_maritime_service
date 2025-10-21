@@ -1,6 +1,6 @@
 # Definitions
 
-The definitions of terms used in this Guideline can be found in the *International Dictionary of Marine Aids to Navigation* (IALA Dictionary) and were checked as correct at the time of going to print. Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
+The definitions of terms used in this Guideline, some of which can be found in the *International Dictionary of Marine Aids to Navigation* (IALA Dictionary), were checked as correct at the time of going to print. Where conflict arises, the IALA Dictionary should be considered as the authoritative source of definitions used in IALA documents.
 
 Authentication
   ~ (from Greek: αὐθεντικός *authentikos*, "real, genuine", from αὐθέντης *authentes*, "author") is the act of proving an assertion, such as the identity of a computer system user [@cite:wikipedia-authentication].
@@ -23,7 +23,6 @@ NAVTEX
 Public Portal
   ~ Public Portal services are defined as any public-facing digital services, including IP based human readable websites and web based APIs.
 
-
 Service
   ~ The provision of something (a non-physical object), by one, for the use of one or more others, regulated by formal definitions and mutual agreements. Services involve interactions between providers and consumers, which may be performed in a digital form (data exchanges) or through voice communication or written processes and procedures. 
 
@@ -35,9 +34,5 @@ Service Interface
 
 Service Operation
   ~ Functions or procedures which enable programmatic communication with a service via a service interface.
-
-Service Physical Data Model
-  ~ Describes the realisation of a dedicated service data model in a dedicated technology. This includes a detailed description of the data S-212 to be exchanged using the chosen technology. The actual format of the service physical data model depends on the chosen technology. Examples may be WSDL and XSD files (e.g., for SOAP services) or swagger (Open API) specifications (e.g., for REST services). If an external data model exists (e.g., a standard data model), then the service physical data model shall refer to it: each data item of the service physical data model shall be mapped to a data item defined in the external data model.
-  In order to prove correct implementation of the service specification, there shall exist a mapping between the service physical data model and the service data model. This means, each data item used in the service physical data model shall be mapped to a corresponding data item of the service data model. (In case of existing mappings to a common external (standard) data model from both the service data model and the service physical data model, such a mapping is implicitly given.)
 
 \newpage

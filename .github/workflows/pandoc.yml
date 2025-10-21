@@ -56,6 +56,7 @@ jobs:
             --bibliography source/bibliography/bibliography.bib
             --reference-doc=resources/iala_guideline_template_body.docx
             --output=output/body.docx
+            source/guideline/exec_summary.md
             source/guideline/metadata.md
             source/guideline/introduction.md
             source/guideline/user_needs.md
