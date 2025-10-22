@@ -34,4 +34,6 @@ IALA identified a number of individual features and architectural parameters tha
 
 * Data Driven
 
-It is noted, that the MS2 can be regarded as an AtoN itself and might need to adhere to the IALA-defined AtoN categorisation and availability objectives, as it is designed to support the safety of navigation. This document concludes with 19 functional and 10 non-functional requirements, so that the technical service development can proceed with clearly identified goals. A high-level description of the AtoN update business process model is also provided, as well as the envisaged process on how S-124 and S-125 can be used to promulgate urgent AtoN status changes in a timely manner, both compliant with the relevant IALA documentation.
+It is noted, that the MS2 can be regarded as an AtoN itself and might need to adhere to the IALA-defined AtoN categorisation and availability objectives, as it is designed to support the safety of navigation.
+
+This document concludes with 19 functional and 10 non-functional requirements, so that the technical service development can proceed with clearly identified goals. A high-level description of the AtoN update business process model is also provided, as well as the envisaged process on how S-124 and S-125 can be used to promulgate urgent AtoN status changes in a timely manner, both compliant with the relevant IALA documentation.

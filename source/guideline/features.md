@@ -123,7 +123,7 @@ This section describes the main features of the MS-2 – Aids to Navigation Serv
   <td rowspan="3"><strong>OBJ1</strong>, <strong>OBJ2</strong>, <strong>OBJ5</strong></td>
 </tr>
 <tr>
-  <td><strong>I want to:</strong> Make my services available only to authorised users,</td>
+  <td><strong>I want to:</strong> Make my services available only to authorized users,</td>
 </tr>
 <tr>
   <td><strong>so that:</strong> I can protect control who has access to my resources.</td>
@@ -225,7 +225,7 @@ This section describes the main features of the MS-2 – Aids to Navigation Serv
   <td><strong>I want to:</strong> be able to see only the AtoN status change information on top of my navigational chart,</td>
 </tr>
 <tr>
-  <td><strong>so that:</strong>: the display of information is harmonized and it is clear what the significant changes in AtoNs are.</td>
+  <td><strong>so that:</strong> the display of information is harmonized and it is clear what the significant changes in AtoNs are.</td>
 </tr>
 </tbody>
 </table>
