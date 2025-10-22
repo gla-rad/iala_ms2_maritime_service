@@ -20,7 +20,7 @@ IALA recognises the following six key objectives for MS2:
 
 * **OBJ6**: Support the adoption of MASS, supplying up-to-date machine readable AtoN information.
 
-With these objectives in mind, IALA identified a number of individual features and architectural parameters that are required for MS2 to support these six objectives. The service features are specified from the point of view of each of the involved information producers and consumers, while the architectural parameters are high-level guidelines that outline the importance of:
+IALA identified a number of individual features and architectural parameters that are required for MS2 to support these six objectives. The service features are specified from the point of view of each of the involved information producers and consumers, while the architectural parameters outline the importance of:
 
 * Focus on the provision of AtoN information
 
