@@ -1,6 +1,6 @@
 # Business Process Model {#sec:business_process}
 
-In line with the relevant IALA documentation[@cite:iala-arm17-operational-interactions] [@fig:business_process_in_encs] depicts the general business process model for updating the AtoN information on ENCs, as it is expected to take place after the introduction of S-201 and S-125. The introduction of the MS-2 - Aids to Navigation Service intends to automate the collection AtoN updates and delivery to the service consumer, whether that is a HO, a shore-side entity (such as a public portal, a RECN, a VAR or an OEM), or a ship-side seafarer.
+In line with the relevant IALA documentation[@cite:iala-arm17-operational-interactions], [@fig:business_process_in_encs] depicts the general business process model for updating the AtoN information on ENCs, as it is expected to take place after the introduction of S-201 and S-125. The introduction of the MS-2 - Aids to Navigation Service intends to automate the collection AtoN updates and delivery to the service consumer, whether that is a HO, a shore-side entity (such as a public portal, a RECN, a VAR or an OEM), or a ship-side seafarer.
 
 ![Figure 2: Business Process Model for AtoN Information in ENCs.](../../resources/business_process_in_encs.png){#fig:business_process_in_encs}
 
