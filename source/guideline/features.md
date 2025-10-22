@@ -27,7 +27,7 @@ This section describes the main features of the MS-2 – Aids to Navigation Serv
   <td><strong>I want to:</strong> Retrieve AtoN information on specific areas using filtering criteria (e.g., area name, geometry, or dataset identifier), <br/></td>
 </tr>
 <tr>
-  <td><strong>so that:</strong> I can access relevant navigation information for my operational needs and minimise the communication resource requirements.</td>
+  <td><strong>so that:</strong> I can access relevant navigation information for my operational needs and minimize the communication resource requirements.</td>
 </tr>
 <tr>
   <td rowspan="3">F002</td>
@@ -38,7 +38,7 @@ This section describes the main features of the MS-2 – Aids to Navigation Serv
   <td><strong>I want to:</strong> Subscribe to updates for specific AtoN information, <br/></td>
 </tr>
 <tr>
-  <td><strong>so that:</strong> I can automatically receive changes without repeated manual requests, minimising the required effort and delays.</td>
+  <td><strong>so that:</strong> I can automatically receive changes without repeated manual requests, minimizing the required effort and delays.</td>
 </tr>
 <tr>
   <td rowspan="3">F003</td>
@@ -60,7 +60,7 @@ This section describes the main features of the MS-2 – Aids to Navigation Serv
   <td><strong>I want to:</strong> Schedule a subscription to the latest AtoN information at any point in the future,</td>
 </tr>
 <tr>
-  <td><strong>so that:</strong> I can automatically receive updates on change, but only when I need them to minimise use resource usage and costs.</td>
+  <td><strong>so that:</strong> I can automatically receive updates on change, but only when I need them to minimize use resource usage and costs.</td>
 </tr>
 <tr>
   <td rowspan="3">F005</td>
@@ -159,7 +159,7 @@ This section describes the main features of the MS-2 – Aids to Navigation Serv
   <td><strong>I want to:</strong> Automate my AtoN servicing information ingest,</td>
 </tr>
 <tr>
-  <td><strong>so that:</strong> I can realise operational efficiencies and minimise costs.</td>
+  <td><strong>so that:</strong> I can realize operational efficiencies and minimize costs.</td>
 </tr>
 <tr>
   <td rowspan="3">F014</td>
