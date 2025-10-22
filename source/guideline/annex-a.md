@@ -125,7 +125,7 @@ For reference, this annex provides three discrete tables with the user needs and
 <tr>
   <th>User need</th>
   <th>Justification</th>
-  <th>Relation to IMO strateg</th>
+  <th>Relation to IMO strategy</th>
   <th>Priority in terms of work required</th>
   <th>Issues to consider</th>
 </tr>
@@ -234,7 +234,7 @@ For reference, this annex provides three discrete tables with the user needs and
 <tr>
   <th>User need</th>
   <th>Justification</th>
-  <th>Relation to IMO strateg</th>
+  <th>Relation to IMO strategy</th>
   <th>Priority in terms of work required</th>
   <th>Issues to consider</th>
 </tr>
