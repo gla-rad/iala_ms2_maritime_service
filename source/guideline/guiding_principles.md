@@ -16,7 +16,7 @@ AtoN, NW (MSI-related) and any other related maritime information, must be provi
 
 * Exchange of "pure" S-100 Datasets, and
 
-* Exchange of S-100 100 Exchange Sets, along with the machine readable part of the product specification.
+* Exchange of S-100 100 Exchange Sets, along with the machine readable parts of the product specification.
 
 S-100 datasets are in most cases XML-based files, that contain no additional metadata. This simpler representation of AtoN information, can in some cases might be the preferred way for transferring the data, especially if these are not intended for portrayal on ECDIS devices. A related use case could be the digital equivalent of the current List of Lights carriage requirement. 
 
