@@ -15,7 +15,7 @@ Navaid
   ~ An instrument, device or nautical publication carried on board a vessel for the purpose of assisting navigation.
 
 NAVAREA
-  ~ A geographical sea area, as shown in the appendix (IMO A.706(17) established for the purpose of co-ordinating the transmission of radio navigational warnings. Where appropriate, the term NAVAREA followed by an identifying roman numeral may be used as a short title. The delimitation of such areas is not related to and shall not prejudice the delimitation of any boundaries between States.
+  ~ A geographical sea area, as shown in the appendix IMO A.706(17), established for the purpose of coordinating the transmission of radio navigational warnings. Where appropriate, the term NAVAREA followed by an identifying roman numeral may be used as a short title. The delimitation of such areas is not related to and shall not prejudice the delimitation of any boundaries between States.
 
 NAVTEX
   ~ Single frequency time-shared broadcast system with automated reception and message rejection/selection facilities. Use of NAVTEX is regulated by the IMO NAVTEX Manual (IMO publication 951).

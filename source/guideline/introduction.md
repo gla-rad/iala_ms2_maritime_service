@@ -18,8 +18,8 @@ The IMO SIP outlines 5 key solutions as the basis for accomplishing the e-Naviga
 
 As part of the improved provision of services to vessels through e-Navigation, Maritime Services (MSs) have been identified as the means of providing electronic information in a harmonized way, which is part of solution S5.
 
-Under MSC.1/Circ.1610 [@cite:imo-msc-1-circ1610-2019], as amended [@cite:imo-msc-1-circ1610-rev1-2024] per IALA input, the IMO provides a set of descriptions of the identified MSs, to ensure that their future implementation is done internationally in a standardized and harmonized format. The MS-2 - Aids to Navigation Service was introduced, with the aim of promulgating the latest information on AtoN and augment charted AtoN information on an appropriate shipborne navigation display prior to updates to the nautical chart. 
-IALA as the organisation responsible for the harmonization and standardisation of the provision of Aids to Navigation (AtoNs), is the most well-positioned international body to provide a more detailed description of the context of the MS-2 - Aids to Navigation Service and offer guidance the high-level considerations of how it should be implemented. To do so, the IALA G-1155 [6] guideline template is utilised, as this was specifically defined to support the IALA members on the specification process of MS.
+Under MSC.1/Circ.1610 [@cite:imo-msc-1-circ1610-2019], as amended [@cite:imo-msc-1-circ1610-rev1-2024] per IALA input, the IMO provides a set of descriptions of the identified MSs, to ensure that their future implementation is done internationally in a standardized and harmonized format. The MS-2 – Aids to Navigation Service was introduced, with the aim of promulgating the latest information on AtoN and augment charted AtoN information on an appropriate shipborne navigation display prior to updates to the nautical chart. 
+IALA as the organization responsible for the harmonization and standardization of the provision of Aids to Navigation (AtoNs), is the most well-positioned international body to provide a more detailed description of the context of the MS-2 – Aids to Navigation Service and offer guidance the high-level considerations of how it should be implemented. To do so, the IALA G-1155 [6] guideline template is utilized, as this was specifically defined to support the IALA members on the specification process of MS.
 
 ## Purpose of this Guideline {#sec:introduction_purpose}
 
@@ -39,11 +39,11 @@ The purpose of this document is to provide a holistic overview of the MS-2 – A
 
 As specified in [@cite:imo-msc-1-circ1610-rev1-2024], the MS-2 – Aids to Navigation Service describes the provision of AtoN deployed to enhance the safety of navigation. AIS Application Specific Messages (AIS-ASM) are not included in the description of the MS.
 
-IALA defines an AtoN as any device, system or service, external to vessels, designed and operated to enhance the safe and efficient navigation of individual vessels and/or vessel traffic. The IMO definition of the MS-2 – Aids to Navigation Service includes any Positioning, Navigation and Timing (PNT) services, while Vessel Traffic Services (VTS) are considered separately in [@cite:imo-msc-1-circ1610-rev1-2024]. In the question of PNT, the physical AtoN infrastructure is seen as an integral part, as it cannot be spoofed or jammed. In addition, AtoN structures can be utilised to measure the integrity of PNT information. As such, PNT will be considered in this document as well.
+IALA defines an AtoN as any device, system or service, external to vessels, designed and operated to enhance the safe and efficient navigation of individual vessels and/or vessel traffic. For the purpose of the Organization this definition includes Vessel Traffic Services (VTS)[@cite:iala-convention-article-2]. The IMO definition of the MS-2 – Aids to Navigation Service includes any Positioning, Navigation and Timing (PNT) services, while VTS are considered separately in [@cite:imo-msc-1-circ1610-rev1-2024]. In the question of PNT, the physical AtoN infrastructure is seen as an integral part, as it cannot be spoofed or jammed. In addition, AtoN structures can be utilized to measure the integrity of PNT information. As such, PNT will be considered in this document as well.
 
 ### AtoN Information Flow {#sec:introduction_aton_info_flow}
 
-This maritime service specification document describes the high-level flow of AtoN information between a service provider and the end-users of such a service. In most cases, the service provider is an AtoN Authority, while the end-users include both shoreside authorities/organisations and mariners, which may (or may not) need to display the data onto a type-approved Electronic Chart Display and Information System (ECDIS) or any other Electronic Chart System (ECS) in general. These relationships are illustrated in the information flow diagram of [@fig:aton-information-flow]. Please note that this diagram is just the representation of a typical envisioned environment, and other variations may also be established.
+This maritime service specification document describes the high-level flow of AtoN information between a service provider and the end-users of such a service. In most cases, the service provider is an AtoN Authority, while the end-users include both shoreside authorities/organizations and mariners, which may (or may not) need to display the data onto a type-approved Electronic Chart Display and Information System (ECDIS) or any other Electronic Chart System (ECS) in general. These relationships are illustrated in the information flow diagram of [@fig:aton-information-flow]. Please note that this diagram is just the representation of a typical envisioned environment, and other variations may also be established.
 
 ![Figure 1: AtoN Information Flow](../../resources/AtoNInfoDistribution.png){#fig:aton-information-flow}
 
@@ -91,9 +91,9 @@ As per the non-exhaustive list found in [@cite:imo-msc-1-circ1610-rev1-2024], us
 
 * Security
 
-* PNT information on position in real time (timing is a critical component in the provision of some AtoN services, and the need to synchronize and reference radionavigation signals to Universal Coordinated Time (UTC) will increase as look to use more diverse systems and solutions)
+* PNT information on position in real time (timing is a critical component in the provision of some AtoN services, and the need to synchronize and reference radio-navigation signals to Universal Coordinated Time (UTC) will increase as look to use more diverse systems and solutions)
 
-* PNT integrity (recognizing the vulnerability of radionavigation systems to interference (e.g. GNSS jamming); the use of multiple dissimilar positioning and timing systems is required to achieve resilience in support of safe navigation and the optimal working of AtoN)
+* PNT integrity (recognizing the vulnerability of radio-navigation systems to interference (e.g. GNSS jamming); the use of multiple dissimilar positioning and timing systems is required to achieve resilience in support of safe navigation and the optimal working of AtoN)
 
 This document also makes special mention to the following types:
 
@@ -131,7 +131,7 @@ These are not operational but rather conceptual. Therefore, they cannot be descr
 
 The **OBJ#** identifiers, provided for each of the stated objectives, should be used to reference the objective for each of the technical service requirement specifications.
 
-## Intented Users Of The Service {#sec:introduction_intended_users}
+## Intended Users Of The Service {#sec:introduction_intended_users}
 
 Following the operational context and the AtoN information exchange diagram of [@fig:aton-information-flow], the following non-exhaustive user list is defined for the MS-2 – Aids to Navigation Service:
 
