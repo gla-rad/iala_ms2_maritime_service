@@ -90,7 +90,7 @@ This section describes the main features of the MS-2 – Aids to Navigation Serv
   <td rowspan="3"><strong>OBJ4</strong>, <strong>OBJ5</strong></td>
 </tr>
 <tr>
-  <td><strong>I want to:</strong> I want to be able to report discrepancies on AtoN in a standardised way,</td>
+  <td><strong>I want to:</strong> I want to be able to report discrepancies on AtoN in a standardized way,</td>
 </tr>
 <tr>
   <td><strong>so that:</strong> they can be addressed earlier.</td>
