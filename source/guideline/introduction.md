@@ -39,7 +39,7 @@ The purpose of this document is to provide a holistic overview of the MS-2 – A
 
 As specified in [@cite:imo-msc-1-circ1610-rev1-2024], the MS-2 – Aids to Navigation Service describes the provision of AtoN deployed to enhance the safety of navigation. AIS Application Specific Messages (AIS-ASM) are not included in the description of the MS.
 
-IALA defines an AtoN as any device, system or service, external to vessels, designed and operated to enhance the safe and efficient navigation of individual vessels and/or vessel traffic. For the purpose of the Organization this definition includes Vessel Traffic Services (VTS) [@cite:iala-convention-article-2]. The IMO definition of the MS-2 – Aids to Navigation Service includes any Positioning, Navigation and Timing (PNT) services, while VTS are considered separately in [@cite:imo-msc-1-circ1610-rev1-2024]. In the question of PNT, the physical AtoN infrastructure is seen as an integral part, as it cannot be spoofed or jammed. In addition, AtoN structures can be utilized to measure the integrity of PNT information. As such, PNT will be considered in this document as well.
+IALA defines an AtoN as any device, system or service, external to vessels, designed and operated to enhance the safe and efficient navigation of individual vessels and/or vessel traffic. For the purpose of the Organization this definition includes Vessel Traffic Services (VTS) [@cite:iala-convention-article-2]. The IMO definition of the MS-2 – Aids to Navigation Service includes any Positioning, Navigation and Timing (PNT) services, while VTS are considered separately in [@cite:imo-msc-1-circ1610-rev1-2024]. In the question of PNT, the physical AtoN infrastructure is seen as an integral part, as it cannot be spoofed or jammed. In addition, AtoN structures can be utilized to measure the integrity of PNT information. However, this document focuses solely on the AtoN information flow. PNT is expected to be covered by a separate specification, focusing solely on that.
 
 ### AtoN Information Flow {#sec:introduction_aton_info_flow}
 
@@ -90,10 +90,6 @@ As per the non-exhaustive list found in [@cite:imo-msc-1-circ1610-rev1-2024], us
 * Measures for the protection of the marine environment
 
 * Security
-
-* PNT information on position in real time (timing is a critical component in the provision of some AtoN services, and the need to synchronize and reference radio-navigation signals to Universal Coordinated Time (UTC) will increase as look to use more diverse systems and solutions)
-
-* PNT integrity (recognizing the vulnerability of radio-navigation systems to interference (e.g. GNSS jamming); the use of multiple dissimilar positioning and timing systems is required to achieve resilience in support of safe navigation and the optimal working of AtoN)
 
 This document also makes special mention to the following types:
 
