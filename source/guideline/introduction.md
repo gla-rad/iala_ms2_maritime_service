@@ -35,6 +35,14 @@ The purpose of this document is to provide a holistic overview of the MS-2 – A
 
 * Business architecture with a Business Process Model (BPM).
 
+## Scope and Relationship to Other Documents
+
+This document is a G1155 compliant Maritime Service description. It provides a detailed elaboration of the MS-2 – Aids to Navigation Service as initially described in IMO MSC.1/Circ.1610/Rev.1. This document does not revise, amend or supersede that Circular; it complements it by providing IALA's authoritative description of the MS-2 context, objectives, features and requirements at a level of detail appropriate for subsequent technical service development.
+
+The position of this document within the IALA publication ecosystem is illustrated in [@fig:pub_position] below. This Guideline adopts the Business Perspective of a Maritime Service, as defined in G1155. It informs downstream work on Service Specifications and Service Technical Designs produced under G1128. 
+
+![Position within the IALA publication ecosystem.](../../resources/pub_position.png){#fig:pub_position}
+
 ## Context of the Maritime Service {#sec:introduction_context}
 
 As specified in [@cite:imo-msc-1-circ1610-rev1-2024], the MS-2 – Aids to Navigation Service describes the provision of AtoN deployed to enhance the safety of navigation. AIS Application Specific Messages (AIS-ASM) are not included in the description of the MS.
@@ -45,7 +53,7 @@ IALA defines an AtoN as any device, system or service, external to vessels, desi
 
 This maritime service specification document describes the high-level flow of AtoN information between a service provider and the end-users of such a service. In most cases, the service provider is an AtoN Authority, while the end-users include both shoreside authorities/organizations and mariners, which may (or may not) need to display the data onto a type-approved Electronic Chart Display and Information System (ECDIS) or any other Electronic Chart System (ECS) in general. These relationships are illustrated in the information flow diagram of [@fig:aton-information-flow]. Please note that this diagram is just the representation of a typical envisioned environment, and other variations may also be established.
 
-![Figure 1: AtoN Information Flow](../../resources/AtoNInfoDistribution.png){#fig:aton-information-flow}
+![AtoN Information Flow](../../resources/AtoNInfoDistribution.png){#fig:aton-information-flow}
 
 The diagram is divided into two main sections, illustrating how navigation data is distributed and utilized.
 
