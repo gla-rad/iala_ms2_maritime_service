@@ -71,7 +71,7 @@ The main features of the MS-2 – Aids to Navigation Service should not be mista
   <td><strong>I want to:</strong> Receive information from multiple authorities using the same equipment including software,</td>
 </tr>
 <tr>
-  <td><strong>so that:</strong> I can safely navigate through multiple areas or responsibility.</td>
+  <td><strong>so that:</strong> I can safely navigate through multiple areas of responsibility.</td>
 </tr>
 <tr>
   <td rowspan="3">F006</td>
@@ -126,7 +126,7 @@ The main features of the MS-2 – Aids to Navigation Service should not be mista
   <td><strong>I want to:</strong> Make my services available only to authorized users,</td>
 </tr>
 <tr>
-  <td><strong>so that:</strong> I can protect control who has access to my resources.</td>
+  <td><strong>so that:</strong> I can control who has access to my resources.</td>
 </tr>
 <tr>
   <td rowspan="3">F011</td>

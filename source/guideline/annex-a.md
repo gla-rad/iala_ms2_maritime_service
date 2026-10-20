@@ -84,7 +84,7 @@ This annex provides three discrete tables with the user needs and priorities tha
     </ul>
   </td>
   <td>Investigate the best way to harmonize and present maritime documentation in an electronic format to improve efficiency and reduce administrative burden.</td>
-  <td>Electronic documents should support: easy localization of information, e.g. with the help of a search function; automatic updates, e.g. of Notices to Mariners; possible integration of information from multiple sources; the integration of information in other systems on the bridge, e.g. ECDIS; electronic documents should be printable or be additionally provided as paper version; the need for traceability and ability to audit.</td>
+  <td>Electronic documents should support: easy localization of information, e.g. with the help of a search function; automatic updates, e.g. of Notices to Mariners; possible integration of information from multiple sources; the integration of information in other systems on the bridge, e.g. ECDIS, electronic documents should be printable or be additionally provided as paper version; the need for traceability and ability to audit.</td>
 </tr>
 <tr>
   <td><strong>Automated Updating of Baseline Data and Documents:</strong> Seafarers expressed a desire for documents such as charts and voyage planning publications to be automatically updated, with minimal shipboard intervention.</td>

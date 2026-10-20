@@ -89,7 +89,7 @@ It is however well understood that this might not always be feasible - at least 
 | **Non-functional** | MS2-NFR005 | Responsiveness | The service provides a response to a service consumer’s request without delay, and the data provided should be near real time. | F001, F002, F011, F016
 | **Non-functional** | MS2-NFR006 | Performance | The service can handle multiple requests simultaneously, e.g. 1000/sec. | F001, F010, F012 |
 | **Non-functional** | MS2-NFR007 | Portability | The service makes the data available in portable machine-readable formats, e.g. XML/JSON | F014
-| **Non-functional** | MS2-NFR008 | Compression | The service is able transmit the data in compressed format, with the compression method, e.g. gzip, clearly indicated. | F001. F005, F008 |
+| **Non-functional** | MS2-NFR008 | Compression | The service is able to transmit the data in compressed format, with the compression method, e.g. gzip, clearly indicated. | F001, F005, F008 |
 | **Non-functional** | MS2-NFR009 | Accessibility | The AtoN information is accessible as much as possible and modern APIs should be supported for machine-to-machine communication. | F005, F010, F013, F014 |
 | **Non-functional** | MS2-NFR010 | Compatibility | The service is compatible with as many end-user devices as possible and conforms to the latest relevant maritime standards, e.g. S-100 (S-124, S-125, S-201, S-240). | F005, F010, F013, F014 |
 
