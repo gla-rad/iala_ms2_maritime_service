@@ -1,6 +1,6 @@
 # Annex A. IMO User Needs And Priorities
 
-For reference, this annex provides three discrete tables with the user needs and priorities that have been identified in the IMO in MSC.1/Circ.1595, Annex 3 [@cite:imo-msc-1-circ1595-2018]. The tables focus specifically on Shipboard, Shore-based and Search and Rescue (SAR) users respectively. Only the entries that are deemed relevant to the MS-2 Aids to Navigation Service specification have been included.
+This annex provides three discrete tables with the user needs and priorities that have been identified in the IMO in MSC.1/Circ.1595, Annex 3 [@cite:imo-msc-1-circ1595-2018]. The tables focus specifically on Shipboard, Shore-based and Search and Rescue (SAR) users respectively. Only the entries that are deemed relevant to the MS-2 Aids to Navigation Service specification have been included.
 
 <div id="html_table" caption="Shipboard User Needs and Priorities {#tbl:shipboard-user-needs-and-priorities}">
 <table>
@@ -19,7 +19,7 @@ For reference, this annex provides three discrete tables with the user needs and
 </tr>
 <tr>
   <td><strong>User-selectable presentation of information received via communication equipment</strong></td>
-  <td>Seafarers expressed a desire to have the possibility to present user-selectable information received via communication equipment on the navigational displays (e.g. ship in distress, wind speed/ direction, AtoN status, restricted areas). They further requested the possibility to filter some transmitted data for presentation according to user-set parameters (e.g. only information from user-selected sea areas).</td>
+  <td>Seafarers expressed a desire to have the possibility to present user-selectable information received via communication equipment on the navigational displays, e.g. ship in distress, wind speed/ direction, AtoN status, restricted areas. They further requested the possibility to filter some transmitted data for presentation according to user-set parameters, e.g. only information from user-selected sea areas.</td>
   <td>
     <ul>
       <li>Effective communication</li>
@@ -29,7 +29,7 @@ For reference, this annex provides three discrete tables with the user needs and
     </ul>
   </td>
   <td>Research should be conducted regarding the type of information, equipment and systems involved and how to present and/or filter such information.</td>
-  <td>Availability of information in real-time with possible presentation on the shipborne navigational displays. Information overload needs to be prevented, therefore, presentation of information should be user-selectable to filter required information. Task-oriented presentation based on INS-tasks (resolution MSC.252(83)).</td>
+  <td>Availability of information in real-time with possible presentation on the shipborne navigational displays. Information overload needs to be prevented, therefore, presentation of information should be user-selectable to filter required information. Task-oriented presentation based on INS-tasks, see Resolution MSC.252(83).</td>
 </tr>
 <tr>
   <td><strong>Maritime Safety Information (MSI):</strong> Seafarers expressed a desire to sort and display MSI, such as NAVTEX, SafetyNET, more effectively.</td>
@@ -84,7 +84,7 @@ For reference, this annex provides three discrete tables with the user needs and
     </ul>
   </td>
   <td>Investigate the best way to harmonize and present maritime documentation in an electronic format to improve efficiency and reduce administrative burden.</td>
-  <td>Electronic documents should support: easy localization of information (e.g. with the help of a search function); automatic updates (e.g. of Notices to Mariners); possible integration of information from multiple sources; the integration of information in other systems on the bridge (e.g. ECDIS) electronic documents should be printable or be additionally provided as paper version; the need for traceability and ability to audit.</td>
+  <td>Electronic documents should support: easy localization of information, e.g. with the help of a search function; automatic updates, e.g. of Notices to Mariners; possible integration of information from multiple sources; the integration of information in other systems on the bridge, e.g. ECDIS, electronic documents should be printable or be additionally provided as paper version; the need for traceability and ability to audit.</td>
 </tr>
 <tr>
   <td><strong>Automated Updating of Baseline Data and Documents:</strong> Seafarers expressed a desire for documents such as charts and voyage planning publications to be automatically updated, with minimal shipboard intervention.</td>

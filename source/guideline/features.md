@@ -1,12 +1,12 @@
 # Features {#sec:features}
 
-This section describes the main features of the MS-2 – Aids to Navigation Service. These should not be mistaken for the data model features defined in the S-100 framework; in the current context, ‘features’ refers specifically to the service’s functions and capabilities. A list of the main features identified, including their associated descriptions, is presented in [@tbl:ms2-feature-descriptions].
+The main features of the MS-2 – Aids to Navigation Service should not be mistaken for the data model features defined in the S-100 framework. In the current context, features refers specifically to the service’s functions and capabilities. A list of the main features identified, including their associated descriptions, is presented in [@tbl:ms2-feature-descriptions].
 
-[@tbl:ms2-feature-descriptions] references several user roles, i.e. seafarers, AtoN authorities, VARs etc. Based on the data exchange interactions depicted in Figure 1, the identified roles can act as a Service Consumer or a Service Provider. In the present context, these are defined as:
+[@tbl:ms2-feature-descriptions] references several user roles, i.e. seafarers, AtoN authorities, VAR etc. Based on the data exchange interactions depicted in [@fig:aton-information-flow], the identified roles can act as a service consumer or a service provider. In the present context, these are defined as:
 
-* ***Service Consumer***: Refers to any intermediate or end user (as per Figure 1) who ultimately receives AtoN information. The service consumer is the party that benefits from the provided information, which helps them fulfil their statutory or business duties, or navigate safely and efficiently.
+* Service consumer: Refers to any intermediate or end user as included in [@fig:aton-information-flow] who ultimately receives AtoN information. The service consumer is the party that benefits from the provided information, which helps them fulfil their statutory or business duties, or navigate safely and efficiently.
 
-* ***Service Provider***: Any entity responsible for packaging, distributing, and presenting AtoN information to the intermediate or end-users (service consumers). This could be a government agency, such as an AtoN Authority or a Hydrographic Office. Alternatively, it might be a private company offering navigation services, like a marine data provider or an ECDIS manufacturer.
+* Service provider: Any entity responsible for packaging, distributing, and presenting AtoN information to the service consumers. This could be a government agency, such as an AtoN authority or a HO. Alternatively, it might be a private company offering navigation services, like a marine data provider or an ECDIS manufacturer.
 
 <div id="html_table" caption="MS-2 Feature Descriptions. {#tbl:ms2-feature-descriptions}">
 <table>
@@ -24,7 +24,7 @@ This section describes the main features of the MS-2 – Aids to Navigation Serv
   <td rowspan="3"><strong>OBJ1</strong>, <strong>OBJ5</strong></td>
 </tr>
 <tr>
-  <td><strong>I want to:</strong> Retrieve AtoN information on specific areas using filtering criteria (e.g., area name, geometry, or dataset identifier), <br/></td>
+  <td><strong>I want to:</strong> Retrieve AtoN information on specific areas using filtering criteria, e.g., area name, geometry, or dataset identifier, <br/></td>
 </tr>
 <tr>
   <td><strong>so that:</strong> I can access relevant navigation information for my operational needs and minimize the communication resource requirements.</td>
@@ -68,10 +68,10 @@ This section describes the main features of the MS-2 – Aids to Navigation Serv
   <td rowspan="3"><strong>OBJ1</strong>, <strong>OBJ4</strong>, <strong>OBJ5</strong>, <strong>OBJ6</strong></td>
 </tr>
 <tr>
-  <td><strong>I want to:</strong> Receive information from multiple authorities using the same equipment  (including software),</td>
+  <td><strong>I want to:</strong> Receive information from multiple authorities using the same equipment including software,</td>
 </tr>
 <tr>
-  <td><strong>so that:</strong> I can safely navigate through multiple areas or responsibility.</td>
+  <td><strong>so that:</strong> I can safely navigate through multiple areas of responsibility.</td>
 </tr>
 <tr>
   <td rowspan="3">F006</td>
@@ -108,7 +108,7 @@ This section describes the main features of the MS-2 – Aids to Navigation Serv
 </tr>
 <tr>
   <td rowspan="3">F009</td>
-  <td><strong>As a:</strong> AtoN Information VAR/ECS Provider,</td>
+  <td><strong>As a:</strong> AtoN information VAR/ECS provider,</td>
   <td rowspan="3"><strong>OBJ1</strong>, <strong>OBJ2</strong></td>
 </tr>
 <tr>
@@ -119,18 +119,18 @@ This section describes the main features of the MS-2 – Aids to Navigation Serv
 </tr>
 <tr>
   <td rowspan="3">F010</td>
-  <td><strong>As a:</strong> AtoN Information VAR/ECS Provider,</td>
+  <td><strong>As a:</strong> AtoN information VAR/ECS provider,</td>
   <td rowspan="3"><strong>OBJ1</strong>, <strong>OBJ2</strong>, <strong>OBJ5</strong></td>
 </tr>
 <tr>
   <td><strong>I want to:</strong> Make my services available only to authorized users,</td>
 </tr>
 <tr>
-  <td><strong>so that:</strong> I can protect control who has access to my resources.</td>
+  <td><strong>so that:</strong> I can control who has access to my resources.</td>
 </tr>
 <tr>
   <td rowspan="3">F011</td>
-  <td><strong>As a:</strong> AtoN Authority,</td>
+  <td><strong>As a:</strong> AtoN authority,</td>
   <td rowspan="3"><strong>OBJ1</strong>, <strong>OBJ4</strong></td>
 </tr>
 <tr>
@@ -141,7 +141,7 @@ This section describes the main features of the MS-2 – Aids to Navigation Serv
 </tr>
 <tr>
   <td rowspan="3">F012</td>
-  <td><strong>As a:</strong> AtoN Authority,</td>
+  <td><strong>As a:</strong> AtoN authority,</td>
   <td rowspan="3"><strong>OBJ1</strong>, <strong>OBJ4</strong></td>
 </tr>
 <tr>
@@ -152,7 +152,7 @@ This section describes the main features of the MS-2 – Aids to Navigation Serv
 </tr>
 <tr>
   <td rowspan="3">F013</td>
-  <td><strong>As a:</strong> AtoN Authority,</td>
+  <td><strong>As a:</strong> AtoN authority,</td>
   <td rowspan="3"><strong>OBJ4</strong></td>
 </tr>
 <tr>
@@ -163,7 +163,7 @@ This section describes the main features of the MS-2 – Aids to Navigation Serv
 </tr>
 <tr>
   <td rowspan="3">F014</td>
-  <td><strong>As a:</strong> AtoN Authority,</td>
+  <td><strong>As a:</strong> AtoN authority,</td>
   <td rowspan="3"><strong>OBJ1</strong>,  <strong>OBJ5</strong>, <strong>OBJ6</strong></td>
 </tr>
 <tr>
@@ -174,7 +174,7 @@ This section describes the main features of the MS-2 – Aids to Navigation Serv
 </tr>
 <tr>
   <td rowspan="3">F015</td>
-  <td><strong>As a:</strong> AtoN Authority,</td>
+  <td><strong>As a:</strong> AtoN authority,</td>
   <td rowspan="3"><strong>OBJ1</strong>, <strong>OBJ2</strong></td>
 </tr>
 <tr>
@@ -185,7 +185,7 @@ This section describes the main features of the MS-2 – Aids to Navigation Serv
 </tr>
 <tr>
   <td rowspan="3">F016 </td>
-  <td><strong>As a:</strong>  AtoN Authority,</td>
+  <td><strong>As a:</strong>  AtoN authority,</td>
   <td rowspan="3"><strong>OBJ4</strong>, <strong>OBJ5</strong></td>
 </tr>
 <tr>
@@ -196,7 +196,7 @@ This section describes the main features of the MS-2 – Aids to Navigation Serv
 </tr>
 <tr>
   <td rowspan="3">F017</td>
-  <td><strong>As a:</strong> AtoN Authority,</td>
+  <td><strong>As a:</strong> AtoN authority,</td>
   <td rowspan="3"><strong>OBJ4</strong>, <strong>OBJ5</strong></td>
 </tr>
 <tr>
@@ -207,7 +207,7 @@ This section describes the main features of the MS-2 – Aids to Navigation Serv
 </tr>
 <tr>
   <td rowspan="3">F018</td>
-  <td><strong>As a:</strong> AtoN Authority,</td>
+  <td><strong>As a:</strong> AtoN authority,</td>
   <td rowspan="3"><strong>OBJ1</strong>, <strong>OBJ2</strong>, <strong>OBJ5</strong></td>
 </tr>
 <tr>

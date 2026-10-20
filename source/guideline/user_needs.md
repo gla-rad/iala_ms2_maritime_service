@@ -1,6 +1,6 @@
 # User Needs {#sec:user-needs}
 
-This section presents in [@tbl:ms2-user-needs] the per objective information needs, which are to be fulfilled by the MS-2 – Aids to Navigation Service. It should be stressed that all users identified in the previous section are included in this context, not just the mariner end-users.
+[@tbl:ms2-user-needs] includes the per objective information needs, which are to be fulfilled by the MS-2 – Aids to Navigation Service. It should be stressed that all users identified in the previous section are included in this context, not just the mariner end-users.
 
 <div id="html_table" caption="The MS-2 User-Needs {#tbl:ms2-user-needs}">
 <table>
@@ -12,7 +12,7 @@ This section presents in [@tbl:ms2-user-needs] the per objective information nee
 </thead>
 <tbody>
 <tr>
-  <td rowspan="7"><strong>OBJ1</strong> - Provision of AtoN Information to End Users</td>
+  <td rowspan="7"><strong>OBJ1</strong> - Provision of AtoN information to end users</td>
   <td>Most up-to-date AtoN information</td>
 </tr>
 <tr>
@@ -34,7 +34,7 @@ This section presents in [@tbl:ms2-user-needs] the per objective information nee
   <td>Ability to trust the data integrity</td>
 </tr>
 <tr>
-  <td rowspan="4"><strong>OBJ2</strong> - Provision of AtoN Information to Authorities</td>
+  <td rowspan="4"><strong>OBJ2</strong> - Provision of AtoN information to authorities</td>
   <td>Administrative data (metadata for governance)</td>
 </tr>
 <tr>
@@ -44,10 +44,10 @@ This section presents in [@tbl:ms2-user-needs] the per objective information nee
   <td>Ability to trust the data integrity</td>
 </tr>
 <tr>
-  <td>Standardization and common reference framework (e.g. S-100)</td>
+  <td>Standardization and common reference framework, e.g. S-100</td>
 </tr>
 <tr>
-  <td rowspan="3"><strong>OBJ3</strong> - Describe Physical, Virtual, and Synthetic AtoN</td>
+  <td rowspan="3"><strong>OBJ3</strong> - Describe physical, virtual, and synthetic AtoN</td>
   <td>Clarification of AtoNs types (physical, virtual, synthetic)</td>
 </tr>
 <tr>
@@ -57,11 +57,11 @@ This section presents in [@tbl:ms2-user-needs] the per objective information nee
   <td>Common framework for managing maintenance</td>
 </tr>
 <tr>
-  <td rowspan="4"><strong>OBJ4</strong> -	Deliver Current Status and Changes of AtoN Information</td>
+  <td rowspan="4"><strong>OBJ4</strong> - Deliver current status and changes of AtoN information</td>
   <td>Most up-to-date AtoN information critical for delivering status and updates</td>
 </tr>
 <tr>
-  <td>Real-time monitoring information (e.g. telemetry, NW)</td>
+  <td>Real-time monitoring information, e.g. telemetry, NW</td>
 </tr>
 <tr>
   <td>AtoN service report mechanisms</td>
@@ -70,7 +70,7 @@ This section presents in [@tbl:ms2-user-needs] the per objective information nee
   <td>Feedback and validation of AtoN discrepancies (S-100 data products can be utilized)</td>
 </tr>
 <tr>
-  <td rowspan="6"><strong>OBJ5</strong> - Supplement Charts and Nautical Publications with Accurate "High-Quality" AtoN Information</td>
+  <td rowspan="6"><strong>OBJ5</strong> - Supplement charts and nautical publications with accurate high-quality AtoN information</td>
   <td>Data accuracy and validation information</td>
 </tr>
 <tr>
@@ -86,10 +86,10 @@ This section presents in [@tbl:ms2-user-needs] the per objective information nee
   <td>Integration support for charting systems </td>
   </tr>
 <tr>
-  <td>Include information that is not urgent enough to be sent as a NW, equivalent to a Preliminary/Temporary Notice to Mariners</td>
+  <td>Include information that is not urgent enough to be sent as a NW, equivalent to a preliminary/temporary Notice to Mariners</td>
 </tr>
 <tr>
-  <td rowspan="3"><strong>OBJ6</strong> - Support the Adoption of MASS, Supplying Up-to-Date Machine-Readable AtoN Information</td>
+  <td rowspan="3"><strong>OBJ6</strong> - Support the adoption of MASS, supplying up-to-date machine-readable AtoN information</td>
   <td>Information in machine-readable formats (JSON/XML)</td>
 </tr>
 <tr>
